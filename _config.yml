@@ -13,6 +13,7 @@ safe: true
 # edit here to achieve your personal greatness
 url: https://kaiyuan-is.me
 baseurl:
+blogurl: http://opensource-thoughts.blogspot.com
 title: Thng Kai Yuan
 author: Kai Yuan
 description: Personal blog and resume
