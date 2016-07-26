@@ -186,3 +186,7 @@ div.footer{
 section.thirteen.columns.awards {
     line-height: 1px;
 }
+
+section.thirteen.columns.awards article header span em{
+  color:#303030;
+}
